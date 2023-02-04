@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LinearLayoutActivity</string>
+    <string name="dame_un_numero">Dame un numero</string>
+    <string name="dame_un_segundo_numero">Dame un segundo numero</string>
+</resources>
